@@ -5,7 +5,7 @@
     </br>
         NPM     : 4520210002
     </br>
-         Mata Kuliah : Desain Web
+         Mata Kuliah : Desain Web A
     </br>
     </br>
     </head>
@@ -14,22 +14,22 @@
     <head>
         <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Registration Form</title>
+        <title>Form Safira</title>
         <link rel="stylesheet" href="styles.css">
     </head>
+    <body bgcolor="gray"></body>
     <body>
-    
     <div class="wrapper">
         <div class="title">
-          Registration Form
+            <strong><font color="cyan"><font size="5">Formulir Registrasi</font></font></br></strong>
         </div>
         <div class="form">
            <div class="inputfield">
-              <label>First Name</label>
+              <label>Nama Depan</label>
               <input type="text" class="input">
            </div>  
             <div class="inputfield">
-              <label>Last Name</label>
+              <label>Nama Belakang</label>
               <input type="text" class="input">
            </div>  
            <div class="inputfield">
@@ -41,29 +41,29 @@
               <input type="password" class="input">
            </div> 
             <div class="inputfield">
-              <label>Gender</label>
+              <label>Jenis Kelamin</label>
               <div class="custom_select">
                 <select>
                   <option value="">Select</option>
-                  <option value="male">Male</option>
-                  <option value="female">Female</option>
+                  <option value="male">Laki-Laki</option>
+                  <option value="female">Perempuan</option>
                 </select>
               </div>
            </div> 
             <div class="inputfield">
-              <label>Email Address</label>
+              <label>Email</label>
               <input type="text" class="input">
            </div> 
           <div class="inputfield">
-              <label>Phone Number</label>
+              <label>Nomor Telepon</label>
               <input type="text" class="input">
            </div> 
           <div class="inputfield">
-              <label>Address</label>
+              <label>Alamat</label>
               <textarea class="textarea"></textarea>
            </div> 
           <div class="inputfield">
-              <label>Postal Code</label>
+              <label>Kode Pos</label>
               <input type="text" class="input">
            </div> 
           <div class="inputfield terms">
@@ -71,14 +71,13 @@
                 <input type="checkbox">
                 <span class="checkmark"></span>
               </label>
-              <p>Agreed to terms and conditions</p>
+              <p>Setuju dengan persyaratan</p>
            </div> 
           <div class="inputfield">
-            <input type="submit" value="Register" class="btn">
+            <input type="submit" value="Daftar" class="btn">
           </div>
         </div>
     </div>	
-        
     </body>
     </html>
 </html>
