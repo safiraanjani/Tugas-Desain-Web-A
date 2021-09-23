@@ -5,12 +5,22 @@
     </br>
         NPM     : 4520210002
     </br>
-     Mata Kuliah : Desain Web
+     Mata Kuliah : Desain Web A
     </br>
     </br>
     </head>
+    <body bgcolor="cyan"></body>
+    <style>
+        table, tr, th, td {
+        border:2px solid black;
+        border-collapse:collapse;
+        width: 400px;
+        }
+    </style>
 <table>
-     <caption>Data Pengunjung Perpustakaan</caption>
+    <caption>
+    <strong><font color="purple"><font size="5">Data Pengunjung Perpustakaan</font></font></br></strong>
+    </caption>
      <thead>
           <tr>
             <th>No.</th>
