@@ -7,27 +7,54 @@
     </br>
      Mata Kuliah : Desain Web
     </br>
+    </br>
     </head>
 <table>
-     <caption>My Table</caption>
+     <caption>Data Pengunjung Perpustakaan</caption>
      <thead>
           <tr>
-               <th>num1</th>
-               <th>num2</th>
-               <th>num3</th>
+            <th>No.</th>
+            <th colspan="2">Panggilan</th>
+            <th colspan="2">Nama</th>
+            <th colspan="2">Email</th>
           </tr>
      </thead>
      <tbody>
           <tr>
-               <td colspan="2">one</td>
-               <td>two</td>
-               <td>three</td>
-               <td>three and a half</td>
+            <td>1</td>
+            <td colspan="2">Safira</td>
+            <td colspan="2">Safira Anjani</td>
+            <td colspan="2">Safira@gmail.com</td>
           </tr>
           <tr>
-               <td>four</td>
-               <td>five</td>
-               <td>six</td>
+            <td>2</td>
+            <td colspan="2">Soobin</td>
+            <td colspan="2">Choi Soobin</td>
+            <td colspan="2">Soobin@gmail.com</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td colspan="2">Yeonjun</td>
+            <td colspan="2">Choi Yeonjun</td>
+            <td colspan="2">Yeonjun@gmail.com</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td colspan="2">Beomgyu</td>
+            <td colspan="2">Choi Beomgyu</td>
+            <td colspan="2">Beomgyu@gmail.com</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td colspan="2">Taehyun</td>
+            <td colspan="2">Kang Taehyun</td>
+            <td colspan="2">Taehyun@gmail.com</td>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td colspan="2">Kai</td>
+            <td colspan="2">Hueningkai</td>
+            <td colspan="2">Kai@gmail.com</td>
           </tr>
      </tbody>
 </table>
